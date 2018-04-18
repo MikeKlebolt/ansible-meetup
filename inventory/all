@@ -1,5 +1,5 @@
 [web]
-webserver1 ansible_ssh_host=
+webserver1 ansible_ssh_host=13.58.42.83
 
 [db]
 database1 ansible_ssh_host=

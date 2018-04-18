@@ -13,6 +13,7 @@
     name: httpd
     state: started
     enabled: yes
+  ignore_errors: yes
 
 - name: Configure a VirtualHost
   copy:
